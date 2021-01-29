@@ -5,6 +5,7 @@ Highlights:
 
 Clipping\
 Overdraw\
+\
 JvmOverloads annotation (Instructs the Kotlin compiler to generate overloads for this function that substitute default parameter values.)\
 \
 Dimens for smallest screen width (480) - new dimens res file and select available qualifiers smallest screen width >> enter 480\
