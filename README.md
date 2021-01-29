@@ -6,8 +6,11 @@ Highlights:
 Clipping\
 Overdraw\
 JvmOverloads annotation (Instructs the Kotlin compiler to generate overloads for this function that substitute default parameter values.)\
+\
 Dimens for smallest screen width (480) - new dimens res file and select available qualifiers smallest screen width >> enter 480\
+\
 Move canvas instead of moving objects for simplicity, safety, less error prone, easier to unwind transformations (and efficiency)\
+\
 1 - canvas.save()\
 2 - canvas.translate()\
 3 - canvas.clipRect()\
@@ -26,5 +29,5 @@ Steps Used\
 3 - apply transformations to path\
 4 - apply clipping with canvas.clipPath(path)\
 5 - draw shapes with drawClippedRectangle() or drawText()\
-/
+\
 quickReject
